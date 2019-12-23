@@ -1,0 +1,42 @@
+begin_time:1554721576.9257057 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554721833.9263568 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554721881.5666842 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554721943.6052825 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554721967.9227965 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554722032.105019 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554722136.7700253 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554722651.488037 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554722701.4017649 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554722756.016168 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554722894.3731298 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1555325437.9774237 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1555325637.3825843 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1555325720.325549 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1555325858.2037823 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1555325939.661455 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1555326027.129807 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1555326128.5145938 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1555326659.7651072 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1555326724.4086323 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1555326806.4852011 dataset: hmdb51 arch: mpi3d dropout: 0.5 weight_decay 3e-07 
+**************************************************

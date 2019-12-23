@@ -1,0 +1,15 @@
+begin_time:1568701573.664978 dataset: something_something_v1 arch: resnet18 lr: 0.01 dropout: 0.63 weight_decay 7e-07 
+**************************************************
+begin_time:1568701636.918127 dataset: something_something_v1 arch: resnet18 lr: 0.01 dropout: 0.63 weight_decay 7e-07 
+**************************************************
+begin_time:1568701792.8606486 dataset: something_something_v1 arch: resnet18 lr: 0.01 dropout: 0.63 weight_decay 7e-07 
+**************************************************
+begin_time:1568702276.0722537 dataset: something_something_v1 arch: resnet18 lr: 0.01 dropout: 0.63 weight_decay 7e-07 
+**************************************************
+begin_time:1568702888.1087415 dataset: something_something_v1 arch: resnet18 lr: 0.1 dropout: 0.63 weight_decay 0.001 
+**************************************************
+begin_time:1568704013.3008368 dataset: something_something_v1 arch: resnet18 lr: 0.01 dropout: 0.63 weight_decay 0.001 
+**************************************************
+0 2.2437425160142763 0.8071515361916334 0d:0h:30m:22s
+1 4.6862829440691955 3.11577851067523 0d:0h:31m:4s
+2 7.754281130474209 3.1244575594514843 0d:0h:32m:51s

@@ -1,0 +1,22 @@
+begin_time:1556418205.1199143 dataset: something_something_v1 arch: i3d dropout: 0.63 weight_decay 7e-07 
+**************************************************
+begin_time:1556418229.6170642 dataset: something_something_v1 arch: i3d dropout: 0.63 weight_decay 7e-07 
+**************************************************
+begin_time:1556418445.9407353 dataset: something_something_v1 arch: i3d dropout: 0.63 weight_decay 7e-07 
+**************************************************
+begin_time:1556419219.9872074 dataset: something_something_v1 arch: i3d dropout: 0.63 weight_decay 7e-07 
+**************************************************
+begin_time:1556419513.159914 dataset: something_something_v1 arch: i3d dropout: 0.63 weight_decay 7e-07 
+**************************************************
+begin_time:1556419595.3509517 dataset: something_something_v1 arch: i3d dropout: 0.63 weight_decay 7e-07 
+**************************************************
+begin_time:1556419674.9613674 dataset: something_something_v1 arch: i3d dropout: 0.63 weight_decay 7e-07 
+**************************************************
+begin_time:1556419741.8238351 dataset: something_something_v1 arch: i3d dropout: 0.63 weight_decay 7e-07 
+**************************************************
+begin_time:1556419977.1378818 dataset: something_something_v1 arch: i3d dropout: 0.63 weight_decay 7e-07 
+**************************************************
+begin_time:1556420024.6441693 dataset: something_something_v1 arch: i3d dropout: 0.63 weight_decay 7e-07 
+**************************************************
+begin_time:1556420115.1191227 dataset: something_something_v1 arch: i3d dropout: 0.63 weight_decay 7e-07 
+**************************************************

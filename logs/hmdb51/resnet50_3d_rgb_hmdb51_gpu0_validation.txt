@@ -1,0 +1,18 @@
+begin_time:1557057677.6644225 dataset: hmdb51 arch: resnet50_3d dropout: 0.5 weight_decay 7e-07 
+**************************************************
+begin_time:1557057712.8902314 dataset: hmdb51 arch: resnet50_3d dropout: 0.5 weight_decay 7e-07 
+**************************************************
+begin_time:1557057782.3376179 dataset: hmdb51 arch: resnet50_3d dropout: 0.5 weight_decay 7e-07 
+**************************************************
+begin_time:1557057819.6581109 dataset: hmdb51 arch: resnet50_3d dropout: 0.5 weight_decay 7e-07 
+**************************************************
+begin_time:1557057893.0947013 dataset: hmdb51 arch: resnet50_3d dropout: 0.5 weight_decay 7e-07 
+**************************************************
+begin_time:1557057912.6009324 dataset: hmdb51 arch: resnet50_3d dropout: 0.5 weight_decay 7e-07 
+**************************************************
+begin_time:1557058256.9618232 dataset: hmdb51 arch: resnet50_3d dropout: 0.5 weight_decay 7e-07 
+**************************************************
+begin_time:1557058397.7631352 dataset: hmdb51 arch: resnet50_3d dropout: 0.5 weight_decay 7e-07 
+**************************************************
+begin_time:1557058450.6155126 dataset: hmdb51 arch: resnet50_3d dropout: 0.5 weight_decay 7e-07 
+**************************************************

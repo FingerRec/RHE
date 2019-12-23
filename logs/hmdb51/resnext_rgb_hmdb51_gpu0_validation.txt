@@ -1,0 +1,32 @@
+begin_time:1561972586.1148994 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1561972617.6440086 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1561972659.6993916 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1561972732.5903769 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1561972921.2202601 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1561972988.084343 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1561973114.953317 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1561973222.220801 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1561973332.7608113 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1561973408.6160314 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1561973446.5016222 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1561973514.1495714 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1561973555.2269819 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1561973676.1560621 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1561973714.0483603 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1561973889.8958285 dataset: hmdb51 arch: resnext lr: 0.0 dropout: 0.5 weight_decay 1e-08 
+**************************************************

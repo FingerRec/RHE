@@ -1,0 +1,2 @@
+begin_time:1557057995.4356627 dataset: hmdb51 arch: resnet50_3d dropout: 0.5 weight_decay 7e-07 
+**************************************************

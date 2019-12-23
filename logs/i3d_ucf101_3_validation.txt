@@ -1,0 +1,2 @@
+begin_time:1554462278.3467495 dataset: ucf101 arch: i3d dropout: 0.6 weight_decay 5e-07 
+**************************************************

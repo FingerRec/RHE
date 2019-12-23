@@ -1,0 +1,2 @@
+begin_time:1560429362.866567 dataset: hmdb51 arch: mpi3d lr: 0.001 dropout: 0.5 weight_decay 7e-07 
+**************************************************

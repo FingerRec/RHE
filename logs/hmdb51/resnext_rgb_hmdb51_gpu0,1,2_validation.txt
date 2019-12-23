@@ -1,0 +1,4 @@
+begin_time:1562846329.6738915 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************
+begin_time:1562846365.5275476 dataset: hmdb51 arch: resnext lr: 0.001 dropout: 0.5 weight_decay 1e-08 
+**************************************************

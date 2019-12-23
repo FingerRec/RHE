@@ -1,0 +1,102 @@
+begin_time:1554533080.986491 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554533148.2291548 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554533394.8824778 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554533486.706596 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554533531.6684842 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554533628.176245 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554533683.5545578 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554533746.4103224 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554533883.7123003 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554553141.7628284 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554553220.8908727 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554553389.8862143 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554553612.707263 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554553726.7879395 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554553845.4346752 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554554394.7039552 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554554817.9816723 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554554888.3249903 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554554978.170915 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554555083.8517373 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554555132.341098 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554555201.998503 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554555250.1793442 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554555685.5918458 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554555744.4424417 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554555797.629521 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554555860.1703653 dataset: hmdb51 arch: i3d dropout: 0.4 weight_decay 7e-07 
+**************************************************
+begin_time:1554772120.0767877 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554772224.1167648 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554780698.3836238 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554793512.699139 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554793616.6983418 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554793666.763056 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554793703.1186922 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554793837.2865014 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554793912.3134968 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554794039.998442 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554794220.8882968 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554794332.564879 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554794461.7927258 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554794531.7626657 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554794581.2774694 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554820256.597072 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554858642.5684078 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554859850.7965322 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554859879.6327703 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554860557.4764953 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554860761.4928348 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554860895.2354538 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554944749.3443558 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
+begin_time:1554975335.6330075 dataset: hmdb51 arch: i3d dropout: 0.5 weight_decay 3e-07 
+**************************************************
