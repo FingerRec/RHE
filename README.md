@@ -64,8 +64,8 @@ bash scripts/something_something_v1/train_mpi3d_pt_flow.sh
 ```bash
 bash scripts/charades/run_charades_i3d_rgb.sh
 ```
+The validation is one clip accuracy. After train, the model will be saved in checkpoints/[*]/[*].pth.tar. For final prediction, refer to test section. Test use the average from 10 clips (3 crops in spatial dimension). Lead to 1%-2% improvement in UCF101/HMDB51. 3%-5% in Something-something-v1. 7%-12% in Kinetics. 
 
-After train, the model will be saved in checkpoints/[*]/[*].pth.tar
 ## Test
 ### HMDB51
 ```bash
