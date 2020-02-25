@@ -1,7 +1,9 @@
 # Revisiting Hard Example for Action Recognition
 This code is a re-implementation of the video 
-classification experiments in our Revisiting Hard-example (The code is finishing). The code is developed based on the PyTorch framework.
+classification experiments in our Revisiting Hard-example for Action Recognition. The code is developed based on the PyTorch framework.
 
+
+> Congrulation! Our paper has been accepted by TCSVT. The final version code and pretrained model will be upload soon!
 
 ## Installation
 - Pytorch0.4+
